@@ -16,6 +16,12 @@ public class JavaApplication15 {
      */
     public static void main(String[] args) {
         // TODO code application logic heresadasdasdasd
+        
+        
+        
+        
+        
+        System.out.println("Szia");
     }
     
 }
